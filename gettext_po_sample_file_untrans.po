@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: TODO List\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Please don't change the name of the application
+#: /app/modules/views
+msgid "TODO List"
+
+
+#: /app/modules/views
+msgid "Enter your credentials below to login"
+
+#: /app/modules/views
+msgid "Login successful!"
+"Welcome back %s !"
+
+#: /app/modules/views 
+msgid "Make sure you've entered the correct username and password"
+
+#: /app/modules/views
+msgid "I forgot my password"
+
+#: /app/modules/views 
+msgid "Enter your address in the field below. A new password will be sent to your inbox."
+
+#: /app/modules/views
+msgid "Sign up for free! No credit card required!"
+
+#: /app/modules/views 
+msgid "Thank you for signing up !\n"
+"Please check your email address to activate your account."
+
+#: /app/modules/views 
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+
+#: /app/modules/views 
+msgid "Terms and conditions"
+
+#: /app/modules/views
+msgid "Just one user online"
+msgid_plural "There are %d users online"
+
+#: /app/modules/views
+msgid "Password"
